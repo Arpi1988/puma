@@ -1,0 +1,47 @@
+.card {
+    width: 400px;
+    height: 370px;
+    background-color: white;
+    border: 3px solid rgb(164, 156, 156);
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.image {
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.colors {
+    font-size: 20px;
+    font-weight: 100;
+    color: rgb(129, 119, 119);
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.jv {
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+}
+
+.header {
+    background-color: rgb(101, 94, 94);
+    width: 100%;
+    height: 80px;
+}
+
+.list {
+    display: flex;
+    margin-left: 50px;
+    list-style: none;
+}
+
+.list-item {
+    flex-direction: row;
+    color: black;
+    list-style: none;
+    padding-right: 30px;
+    padding-top: 30px;
+}
